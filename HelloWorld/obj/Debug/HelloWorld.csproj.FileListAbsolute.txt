@@ -1,0 +1,6 @@
+F:\jamya\TestProject\HelloWorld\bin\Debug\HelloWorld.exe.config
+F:\jamya\TestProject\HelloWorld\bin\Debug\HelloWorld.exe
+F:\jamya\TestProject\HelloWorld\bin\Debug\HelloWorld.pdb
+F:\jamya\TestProject\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+F:\jamya\TestProject\HelloWorld\obj\Debug\HelloWorld.exe
+F:\jamya\TestProject\HelloWorld\obj\Debug\HelloWorld.pdb
